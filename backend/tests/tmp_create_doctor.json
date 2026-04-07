@@ -1,0 +1,8 @@
+{
+  "name": "Dr. Smith",
+  "email": "dr.smith.12345@example.com",
+  "password": "DoctorPass123",
+  "specialization": "General Medicine",
+  "profile": { "licenseNumber": "LIC-12345" }
+}
+

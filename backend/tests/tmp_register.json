@@ -1,0 +1,10 @@
+{
+  "name": "John Patient",
+  "email": "john.patient.12345@exampl.com",
+  "password": "Password123",
+  "profile": {
+    "phone": "9999999999",
+    "address": "Somewhere"
+  }
+}
+
